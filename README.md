@@ -27,7 +27,7 @@ git init
 git add .
 
 # Push first commit
-git commit -m “initial commit” 
+git commit -m 'initial commit' 
 
 # Push an existing repository from the command line
 git remote add origin git@github.com:{yourGitHubName}>/{yourRepositoryName}.git
