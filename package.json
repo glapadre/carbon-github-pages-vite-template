@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.15.0-rc.2",
-  "homepage": "https://{user-name}.github.io/{repo-name}/",
+  "homepage": "https://<github-username>.github.io/<project-repo>",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist",
