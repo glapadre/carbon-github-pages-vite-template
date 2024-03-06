@@ -22,6 +22,8 @@ yarn
 # Start vite dev server
 yarn dev
 
+# (Optional) to setup Githhub Pages
+
 # Initialize git
 git init
 git add .
