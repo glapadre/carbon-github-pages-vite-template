@@ -23,7 +23,7 @@ yarn
 yarn dev
 
 # (Optional) to setup Githhub Pages
-`Update 'homepage' vars in package.json`
+[Update 'homepage' vars in package.json line 5`}
 
 # Initialize git
 git init
