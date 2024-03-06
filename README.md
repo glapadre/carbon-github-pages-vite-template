@@ -37,6 +37,6 @@ git remote add origin git@github.com:{yourGitHubName}>/{yourRepositoryName}.git
 git branch -M main
 git push -u origin main
 
-# Push the React app to the GitHub repository
+# Deploy react app
 yarn deploy
 ```
