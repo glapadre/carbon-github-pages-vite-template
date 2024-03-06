@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.15.0-rc.2",
-  "homepage": "https://pages.github.ibm.com/{repo-path}/{repo-name}/",
+  "homepage": "https://{user-name}.github.io/{repo-name}/",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist",
