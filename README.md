@@ -11,7 +11,7 @@ There is a prerequisite of having `degit` installed in order to get this templat
 
 ```console
 # Start template creation
-degit matthewgallo/ibm-products-vite-template my-new-vite-template
+degit glapadre/carbon-github-pages-vite-template my-new-vite-template
 
 # Change to app directory
 cd my-new-vite-template
