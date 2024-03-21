@@ -1,6 +1,6 @@
 # `@carbon/ibm-products` starter template (vite)
 
-This template will scaffold an application using Carbon v11, Carbon for IBM Products and Github Pages. Use this template to jump start your application with a completely pre-configured setup using `vite`.
+This template will scaffold an application using Carbon v11, Carbon for IBM Products and Github Pages (IBM Internal). Use this template to jump start your application with a completely pre-configured setup using `vite`.
 
 There is a prerequisite of having `degit` installed in order to get this template. To learn more about `degit`, see their [repository](https://github.com/Rich-Harris/degit).
 
