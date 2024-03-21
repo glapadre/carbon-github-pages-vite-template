@@ -24,6 +24,7 @@ yarn dev
 
 # (Optional) to setup Githhub Pages
 -- Update `homepage` vars in package.json line 5
+-- Update `base` var in vite.config.js line 6
 
 # Initialize git
 git init
@@ -32,8 +33,8 @@ git add .
 # Push first commit
 git commit -m 'initial commit' 
 
-# Push an existing repository from the command line
-git remote add origin git@github.com:{yourGitHubName}>/{yourRepositoryName}.git
+# Push this template to a existing IBM repository from the command line
+git remote add origin git@github.ibm.com:{yourGitHubName}/{yourRepositoryName}.git
 git branch -M main
 git push -u origin main
 
